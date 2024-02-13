@@ -1,0 +1,29 @@
+chardet==5.2.0
+contourpy==1.2.0
+coverage==7.4.1
+cycler==0.12.1
+fonttools==4.48.1
+iniconfig==2.0.0
+kiwisolver==1.4.5
+matplotlib==3.8.2
+numpy==1.26.4
+packaging==23.2
+pandas==2.2.0
+pandas-stubs==2.1.4.231227
+pillow==10.2.0
+pluggy==1.4.0
+polars==0.20.7
+-e git+https://github.com/predictables/predictables.git@499309b1716b01e51bbf43e4f933e42ad966501e#egg=predictables
+-e git+https://github.com/predictables/predictables-report.git@8347f76feb400c287a7db02a3da7650b16b22995#egg=predictables_report
+pyarrow==15.0.0
+Pygments==2.17.2
+pyparsing==3.1.1
+pytest==8.0.0
+pytest-cov==4.1.0
+python-dateutil==2.8.2
+python-dotenv==1.0.1
+pytz==2024.1
+reportlab==4.1.0
+six==1.16.0
+types-pytz==2024.1.0.20240203
+tzdata==2024.1
